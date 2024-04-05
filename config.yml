@@ -11,15 +11,15 @@
 useYMLConfig: true # put true as value if you want the bot use this yml file for configuration. If false the bot will use .env variable
 # ROLE ID FOR MODULE PERMISSION
 permission: # Array of Role ID that can access some command! Make sure put value in array format. The number of roles that can be entered is not limited!
-    admin: ["ROLE ID", "ROLE ID"]
-    ptero: ["ROLE ID", "ROLE ID"]
+    admin: ["1225649162402402304", "1225649162402402304"]
+    ptero: ["1225649162402402304", "1225649162402402304"]
 
 # GENERAL USE
 general:
     botToken: process.env.TOKEN || "YOUR BOT TOKEN HERE!"
-    botClientId: "BOT ID" # Your Bot Client ID
-    serverGuildId: "SERVER ID" # Your Server ID
-    serverOwner: "OWNER ID" # Your Server Owner ID
+    botClientId: "1211656377911476274" # Your Bot Client ID
+    serverGuildId: "1211656195883139112" # Your Server ID
+    serverOwner: "1210838282058080269" # Your Server Owner ID
 # PTERODACTYL MODULE
 ptero:
     usePterodactyl: false # true = activating pterodactyl integration feature, false = deactivate pterodactyl integration feature!
