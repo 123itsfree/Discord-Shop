@@ -16,7 +16,7 @@ permission: # Array of Role ID that can access some command! Make sure put value
 
 # GENERAL USE
 general:
-    botToken: process.env.TOKEN || "YOUR BOT TOKEN HERE!"
+    botToken: "MTIxMTY1NjM3NzkxMTQ3NjI3NA.GjNroI.m2Bq916D65VKWbde-zCi_bsEKBMUTCm88iSYK8" || "YOUR BOT TOKEN HERE!"
     botClientId: "1211656377911476274" # Your Bot Client ID
     serverGuildId: "1211656195883139112" # Your Server ID
     serverOwner: "1210838282058080269" # Your Server Owner ID
